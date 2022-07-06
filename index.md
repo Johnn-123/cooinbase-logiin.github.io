@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title> Coin base USA Login </title>
+<body>
+<p><b>
+<h1 align="center"> How to Buy, Sell and Send Cryptosafely.</h1 align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHRjB4THfZkGE6ekcC0RbIDGX9Q8OHSp39Q&usqp=CAU">
+<br>What is Coinbase? </br>
+Coinbase is an online platform that allows you to buy, sell, transfer, store, and transfer digital currency. Our goal is to create an open global financial system and be the most trusted brand worldwide for helping people convert digital currencies into local currency.<br> 
+<br>•	It's easy to buy and sell digital currency. 
+<br>•	It's free to send or receive digital currency online between friends, Coinbase merchants, and wallets. * 
+<br>•	You don't need to worry about security and backups. 
+<br>•	We offer everything you need - a wallet, an account, and tools for merchants all from one interface. 
+<br>•	Coinbase is a platform where many applications can be built with our API. 
+<br>* Customers are responsible for paying miners fees for external transactions. It is free to send between Coinbase users. 
+<br>Coinbase - Cryptocurrency wallets secured 
+<br>Coinbase provides hosted wallets. This is a third-party service that stores the customer's crypto. This is similar to the way a bank keeps money inside your savings or checking account. 
+Hosted wallets eliminate the need for customers to worry about losing keys to their wallets, or losing their USB-connected wallets. However, a lack in control over private keys can lead to a loss of retrieval, if not worse, such as company closure. Hacks are also more likely to result in you losing your data. 
+<br># 1: Sign up: All you have to do is register with your account details, such as name, email and password. 
+<br>#2: Verify account:Coinbase asks you to verify your account by adding and verifying an account number. Add the number to the selected country. It will send you a seven-code, which you need to input into the web platform to verify. 
+ 
+ 
+<br>Next, add your profile information and answer some questions about the account's use. 
+Upload a passport or government-issued ID to verify your account. A computer or device that can be connected to the Internet, as well as a phone number, is required. 
+You are strongly encouraged to use 2-factor authentication when creating the account. Click here to activate 2-FA authentication in your profile. 
+Install Authy, a third-party 2FA application. Next, add an account to Authy. Either scan a code or manually enter the account key. Last, confirm that you have set the 2-FA. Enter one code from your installed app to the website platform as necessary. 
+<br>#3: Link a Payment Method: You should first select your country before you link a payment mode. Different procedures are applicable to different countries. Certain methods may not be available in all countries. 
+</b></p> 
+</body>
+</head>
+</html>
 
-You can use the [editor on GitHub](https://github.com/Johnn-123/cooinbase-logiin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Johnn-123/cooinbase-logiin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
